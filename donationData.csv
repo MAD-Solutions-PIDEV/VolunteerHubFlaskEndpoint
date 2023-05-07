@@ -1,0 +1,733 @@
+donation_amount,gender,age,donation_times,donation_reason
+100,Male,32,5,Animal Protection
+50,Female,45,8,Health
+500,Male,50,2,Animal Protection
+20,Male,28,4,Social
+200,Female,60,1,Health
+75,Male,40,2,Education
+1000,Female,55,1,Sport
+30,Male,25,3,Human Help
+150,Female,38,5,Environment
+500,Male,42,4,Health
+50,Female,29,6,Economic Development
+200,Male,47,4,Culture
+75,Female,35,2,Animal Protection
+100,Male,25,7,Social
+100,Male,35,3,Health
+50,Female,28,2,Education
+500,Male,42,1,Sport
+20,Male,45,4,Human Help
+200,Female,55,6,Environment
+75,Male,40,2,Health
+1000,Female,50,1,Economic Development
+30,Male,38,3,Culture
+150,Female,42,5,Health
+500,Male,29,4,Animal Protection
+50,Female,47,6,Social
+200,Male,35,4,Human Help
+75,Female,25,2,Environment
+100,Male,60,7,Health
+1000,Male,40,5,Economic Development
+50,Female,35,8,Culture
+500,Male,50,2,Health
+20,Male,28,4,Animal Protection
+200,Female,60,1,Social
+75,Male,30,2,Human Help
+1000,Female,55,1,Environment
+30,Male,25,3,Health
+150,Female,38,5,Economic Development
+500,Male,42,4,Culture
+50,Female,29,6,Health
+200,Male,47,4,Health
+75,Female,35,2,Education
+100,Male,25,7,Environment
+250,Female,28,3,Economic Development
+100,Male,45,7,Social
+50,Female,60,2,Sport
+500,Male,35,1,Health
+75,Male,42,4,Animal Protection
+200,Female,52,5,Urgence
+1000,Male,65,3,Human Help
+30,Female,22,2,Health
+150,Male,48,6,Culture
+500,Female,40,4,Economic Development
+250,Female,28,3,Education
+100,Male,45,7,Social
+50,Female,60,2,Sport
+75,Male,35,1,Health
+100,Male,42,4,Animal Protection
+500,Female,32,5,Economic Development
+200,Male,55,1,Social
+50,Female,25,3,Human Help
+150,Male,38,5,Health
+250,Female,42,4,Education
+20,Male,32,5,Culture
+300,Female,45,8,Economic Development
+50,Male,50,2,Environment
+20,Male,28,4,Health
+200,Female,60,1,Urgence
+75,Male,40,2,Sport
+1000,Female,55,1,Animal Protection
+30,Male,25,3,Culture
+150,Female,38,5,Health
+500,Male,42,4,Economic Development
+50,Female,29,6,Education
+200,Male,47,4,Social
+75,Female,35,2,Environment
+100,Male,25,7,Human Help
+250,Female,28,3,Culture
+100,Male,45,7,Health
+50,Female,60,2,Education
+500,Male,35,1,Environment
+75,Male,42,4,Economic Development
+200,Female,50,5,Social
+1000,Male,30,1,Culture
+20,Female,22,2,Sport
+150,Male,55,3,Animal Protection
+500,Female,40,4,Health
+100,Male,32,5,Education
+50,Female,45,8,Environment
+500,Male,50,2,Economic Development
+20,Male,28,4,Social
+200,Female,60,1,Culture
+75,Male,40,2,Sport
+1000,Female,55,1,Animal Protection
+30,Male,25,3,Health
+150,Female,38,5,Education
+500,Male,42,4,Environment
+50,Female,29,6,Economic Development
+200,Male,47,4,Social
+75,Female,35,2,Culture
+100,Male,25,7,Sport
+250,Female,50,3,Animal Protection
+50,Male,30,5,Health
+100,Female,27,3,Education
+75,Male,42,2,Environment
+500,Male,55,1,Economic Development
+200,Female,45,4,Social
+30,Male,22,6,Culture
+150,Female,33,3,Sport
+100,Male,37,2,Animal Protection
+50,Female,40,1,Health
+20,Male,28,5,Education
+100,Male,45,7,Environment
+50,Female,60,2,Economic Development
+500,Male,35,1,Social
+75,Male,42,4,Culture
+200,Female,52,5,Social
+1000,Male,65,3,Education
+30,Female,22,2,Health
+150,Male,48,6,Environment
+500,Female,40,4,Animal Protection
+250,Female,28,3,Economic Development
+100,Male,45,7,Culture
+50,Female,60,2,Health
+500,Male,29,4,Sport
+50,Female,47,6,Human Help
+200,Male,35,4,Health
+50,Female,25,2,Environment
+25,Male,60,7,Social
+100,Male,40,5,Education
+10,Female,35,8,Health
+75,Male,50,2,Economic Development
+150,Male,28,4,Animal Protection
+200,Female,60,1,Human Help
+500,Male,30,2,Social
+20,Female,55,1,Education
+30,Male,25,3,Health
+125,Female,38,5,Environment
+90,Male,25,7,Culture
+300,Female,28,3,Health
+40,Male,45,7,Sport
+80,Female,60,2,Human Help
+55,Male,35,1,Health
+175,Male,42,4,Environment
+65,Female,50,5,Social
+150,Male,30,1,Education
+35,Female,22,2,Health
+250,Male,55,3,Economic Development
+70,Female,40,4,Animal Protection
+15,Male,32,5,Human Help
+95,Female,45,8,Social
+125,Male,50,2,Education
+225,Male,28,4,Health
+60,Female,60,1,Education
+45,Male,40,2,Health
+185,Male,32,5,Environment
+120,Female,45,8,Economic Development
+500,Male,50,2,Social
+20,Male,28,4,Education
+200,Female,60,1,Animal Protection
+75,Male,40,2,Sport
+1000,Female,55,1,Health
+30,Male,25,3,Social
+150,Female,38,5,Economic Development
+500,Male,42,4,Health
+50,Female,29,6,Social
+200,Male,47,4,Education
+75,Female,35,2,Animal Protection
+100,Male,25,7,Sport
+250,Female,50,3,Culture
+50,Male,30,2,Social
+1000,Male,55,1,Economic Development
+150,Female,45,5,Education
+200,Male,60,4,Health
+50,Male,26,3,Environment
+25,Female,36,2,Animal Protection
+100,Male,42,4,Sport
+10,Female,31,5,Economic Development
+75,Male,48,3,Social
+150,Male,29,4,Education
+200,Male,32,5,Health
+500,Female,45,8,Social
+20,Male,50,2,Economic Development
+30,Male,28,4,Animal Protection
+125,Female,60,1,Sport
+90,Male,40,2,Environment
+300,Female,55,1,Social
+40,Male,25,3,Education
+80,Female,38,5,Economic Development
+55,Male,42,4,Social
+175,Female,29,6,Health
+65,Male,47,4,Education
+150,Female,35,2,Environment
+35,Male,25,7,Social
+250,Female,52,3,Health
+70,Male,30,2,Economic Development
+15,Female,65,1,Sport
+95,Male,43,3,Animal Protection
+125,Female,29,4,Health
+225,Male,51,2,Human Help
+60,Female,26,6,Education
+45,Male,27,5,Environment
+185,Female,58,2,Social
+120,Male,24,4,Health
+20,Female,20,1,Economic Development
+200,Male,30,3,Sport
+50,Female,45,8,Animal Protection
+1000,Male,50,2,Health
+20,Male,28,4,Human Help
+500,Female,60,1,Education
+75,Male,40,2,Environment
+5000,Female,55,1,Social
+30,Male,25,3,Health
+150,Female,38,5,Economic Development
+1000,Male,42,4,Sport
+50,Female,29,6,Animal Protection
+500,Male,47,4,Health
+75,Female,35,2,Human Help
+100,Male,25,7,Education
+250,Male,32,5,Environment
+1500,Female,50,1,Social
+25,Male,27,6,Health
+200,Male,43,3,Economic Development
+75,Female,30,4,Sport
+500,Male,35,2,Animal Protection
+100,Female,40,5,Health
+50,Male,22,8,Human Help
+300,Female,45,2,Education
+1000,Male,33,3,Environment
+150,Female,28,6,Social
+100,Male,32,5,Health
+50,Female,45,8,Economic Development
+500,Male,50,2,Sport
+20,Male,28,4,Animal Protection
+200,Female,60,1,Health
+75,Male,40,2,Human Help
+1000,Female,55,1,Education
+30,Male,25,3,Environment
+150,Female,38,5,Social
+500,Male,42,4,Health
+50,Female,29,6,Environment
+200,Male,47,4,Economic Development
+75,Female,35,2,Social
+100,Male,25,7,Sport
+250,Female,55,3,Health
+50,Male,30,6,Animal Protection
+150,Female,48,4,Urgence
+100,Male,40,3,Human Help
+500,Male,55,2,Culture
+75,Female,27,5,Education
+200,Male,65,1,Environment
+30,Male,28,4,Economic Development
+150,Female,50,3,Social
+1000,Male,60,1,Sport
+50,Female,35,7,Health
+200,Male,42,5,Animal Protection
+75,Female,32,4,Urgence
+500,Male,48,2,Human Help
+100,Male,30,6,Culture
+20,Female,25,10,Education
+1000,Male,45,3,Environment
+500,Female,35,2,Economic Development
+50,Male,28,6,Social
+200,Male,50,1,Sport
+75,Female,42,4,Health
+100,Male,30,5,Animal Protection
+150,Female,55,3,Urgence
+300,Male,48,2,Human Help
+25,Male,25,8,Culture
+50,Female,40,4,Education
+100,Male,32,3,Environment
+75,Female,50,1,Economic Development
+500,Male,60,2,Social
+20,Female,28,7,Sport
+200,Male,38,3,Health
+1000,Female,42,1,Animal Protection
+30,Male,45,5,Urgence
+150,Female,35,4,Human Help
+500,Male,55,2,Culture
+50,Female,25,6,Education
+200,Male,30,3,Environment
+75,Female,48,1,Economic Development
+100,Male,50,4,Social
+150,Female,28,2,Sport
+500,Male,40,3,Health
+20,Female,32,5,Animal Protection
+1000,Male,42,1,Urgence
+50,Female,55,4,Health
+200,Male,25,2,Economic Development
+75,Female,38,3,Animal Protection
+100,Male,32,5,Urgence
+50,Female,45,8,Environment
+500,Male,50,2,Social
+20,Male,28,4,Sport
+200,Female,60,1,Health
+75,Male,40,2,Human Help
+1000,Female,55,1,Economic Development
+30,Male,25,3,Environment
+150,Female,38,5,Education
+500,Male,42,4,Animal Protection
+50,Female,29,6,Urgence
+200,Male,47,4,Environment
+75,Female,35,2,Social
+100,Male,25,7,Health
+25,Female,31,3,Human Help
+300,Male,55,2,Economic Development
+40,Female,22,4,Environment
+150,Male,40,3,Education
+75,Female,27,5,Animal Protection
+500,Male,62,1,Urgence
+50,Female,44,7,Environment
+200,Male,35,3,Social
+100,Female,50,2,Health
+30,Male,29,4,Human Help
+150,Female,37,6,Economic Development
+50,Male,40,2,Environment
+500,Female,55,1,Education
+20,Male,30,3,Animal Protection
+100,Female,45,4,Urgence
+200,Male,50,2,Environment
+75,Female,35,5,Social
+1000,Male,60,1,Health
+30,Female,28,3,Human Help
+150,Male,42,6,Economic Development
+500,Female,52,3,Environment
+50,Male,29,6,Education
+200,Female,47,4,Social
+75,Male,38,2,Health
+100,Female,25,7,Animal Protection
+250,Male,48,1,Environment
+50,Female,32,5,Economic Development
+100,Male,55,3,Urgence
+75,Female,40,2,Culture
+200,Male,27,4,Social
+500,Female,40,1,Human Help
+20,Male,32,3,Health
+75,Female,35,4,Environment
+1000,Male,50,1,Economic Development
+50,Female,45,2,Animal Protection
+200,Male,38,3,Urgence
+100,Male,32,5,Social
+50,Female,45,8,Education
+500,Male,50,2,Culture
+20,Male,28,4,Human Help
+200,Female,60,1,Sport
+75,Male,40,2,Health
+30,Male,25,3,Environment
+150,Female,38,5,Economic Development
+500,Male,42,4,Animal Protection
+50,Female,29,6,Urgence
+200,Male,47,4,Social
+75,Female,35,2,Education
+100,Male,25,7,Culture
+300,Female,50,3,Human Help
+50,Male,33,5,Sport
+200,Female,40,2,Health
+100,Female,28,4,Environment
+100,Male,32,5,Economic Development
+50,Female,45,8,Animal Protection
+500,Male,50,2,Urgence
+20,Male,28,4,Social
+200,Female,60,1,Education
+75,Male,40,2,Culture
+1000,Female,55,1,Human Help
+30,Male,25,3,Sport
+150,Female,38,5,Health
+500,Male,42,4,Environment
+50,Female,29,6,Economic Development
+200,Male,47,4,Animal Protection
+75,Female,35,2,Urgence
+100,Male,25,7,Social
+250,Female,55,3,Education
+50,Male,31,5,Culture
+150,Female,42,2,Human Help
+1000,Male,48,1,Sport
+30,Female,27,4,Health
+500,Male,55,3,Environment
+75,Female,40,2,Economic Development
+50,Male,35,3,Animal Protection
+100,Female,42,5,Urgence
+25,Male,27,2,Social
+75,Female,55,4,Education
+20,Male,19,1,Culture
+200,Male,48,7,Human Help
+30,Female,31,2,Sport
+50,Male,40,3,Education
+10,Female,24,1,Economic Development
+150,Male,50,6,Health
+25,Female,29,2,Environment
+100,Male,44,5,Animal Protection
+50,Male,30,3,Social
+75,Female,52,4,Sport
+20,Male,21,1,Urgence
+200,Male,60,7,Human Help
+30,Female,27,2,Culture
+55,Male,38,3,Education
+10,Female,22,1,Economic Development
+150,Male,48,6,Health
+25,Female,34,2,Environment
+100,Male,42,5,Animal Protection
+50,Male,25,3,Social
+75,Female,58,4,Sport
+50,Male,35,3,Urgence
+100,Female,42,5,Human Help
+25,Male,27,2,Culture
+75,Female,55,4,Education
+20,Male,19,1,Economic Development
+200,Male,48,6,Health
+30,Female,31,2,Environment
+150,Male,44,3,Animal Protection
+40,Female,28,1,Social
+80,Male,39,4,Sport
+60,Male,56,3,Urgence
+35,Female,21,2,Human Help
+90,Male,49,5,Culture
+25,Female,33,1,Education
+120,Male,41,3,Economic Development
+50,Female,29,2,Health
+70,Male,36,4,Environment
+30,Female,25,1,Animal Protection
+225,Male,52,6,Social
+45,Female,37,2,Sport
+80,Male,33,4,Urgence
+20,Female,24,1,Urgence
+150,Male,47,3,Health
+100,Female,26,2,Animal Protection
+100,Female,42,5,Social
+25,Male,27,2,Health
+75,Female,55,4,Education
+20,Male,19,1,Sport
+200,Male,48,6,Human Help
+30,Female,31,2,Environment
+150,Male,44,3,Health
+40,Female,28,1,Economic Development
+80,Male,39,4,Culture
+65,Male,56,3,Animal Protection
+35,Female,21,2,Social
+90,Male,49,5,Health
+25,Female,33,1,Education
+120,Male,41,3,Sport
+50,Female,29,2,Human Help
+70,Male,36,4,Environment
+30,Female,25,1,Health
+2000,Male,52,6,Economic Development
+45,Female,37,2,Culture
+80,Male,33,4,Health
+20,Female,24,1,Animal Protection
+150,Male,47,3,Social
+100,Female,26,2,Human Help
+500,Male,45,3,Environment
+1000,Female,22,5,Health
+200,Male,27,2,Economic Development
+750,Female,38,4,Culture
+50,Male,19,1,Health
+1500,Male,58,6,Animal Protection
+100,Female,31,2,Social
+900,Male,49,3,Human Help
+80,Female,28,1,Environment
+300,Male,35,4,Health
+200,Male,66,3,Economic Development
+75,Female,21,2,Culture
+350,Male,39,5,Health
+50,Female,33,1,Health
+500,Male,41,3,Education
+120,Female,29,2,Environment
+150,Male,43,4,Economic Development
+75,Female,25,1,Social
+2000,Male,52,6,Sport
+100,Female,37,2,Health
+350,Male,32,4,Animal Protection
+25,Female,24,1,Urgence
+800,Male,47,3,Human Help
+500,Female,26,2,Health
+75,Male,42,3,Culture
+200,Female,31,5,Economic Development
+30,Male,19,2,Education
+100,Female,55,4,Social
+20,Male,27,1,Sport
+250,Male,48,6,Health
+35,Female,35,2,Animal Protection
+150,Male,44,3,Economic Development
+40,Female,28,1,Social
+120,Male,39,4,Human Help
+60,Male,56,3,Health
+25,Female,21,2,Education
+150,Male,49,5,Culture
+25,Female,33,1,Economic Development
+200,Male,41,3,Environment
+50,Female,29,2,Health
+70,Male,36,4,Urgence
+30,Female,25,1,Sport
+300,Male,52,6,Animal Protection
+45,Female,37,2,Culture
+80,Male,33,4,Health
+20,Female,24,1,Economic Development
+180,Male,47,3,Education
+100,Female,26,2,Social
+90,Female,47,3,Environment
+120,Male,32,4,Human Help
+40,Male,23,2,Culture
+200,Female,59,5,Health
+15,Male,29,1,Education
+300,Male,50,7,Environment
+25,Female,37,1,Economic Development
+150,Male,43,3,Social
+30,Female,30,2,Culture
+180,Male,40,4,Sport
+50,Male,58,2,Animal Protection
+20,Female,24,1,Health
+200,Male,52,6,Education
+35,Female,35,2,Environment
+250,Male,42,5,Economic Development
+60,Female,28,3,Social
+80,Male,34,4,Culture
+20,Female,27,1,Sport
+350,Male,55,8,Animal Protection
+45,Female,39,2,Health
+100,Male,35,3,Education
+25,Female,22,1,Environment
+170,Male,49,4,Economic Development
+110,Female,29,3,Social
+120,Male,37,4,Culture
+60,Female,25,3,Sport
+50,Male,31,2,Animal Protection
+150,Female,43,5,Health
+25,Male,21,1,Education
+200,Male,49,6,Environment
+35,Female,36,2,Economic Development
+100,Male,44,3,Social
+40,Female,28,1,Culture
+90,Male,39,4,Sport
+75,Male,56,3,Animal Protection
+30,Female,24,2,Health
+150,Male,49,5,Education
+20,Female,33,1,Environment
+180,Male,42,3,Economic Development
+50,Female,29,2,Social
+70,Male,36,4,Culture
+30,Female,25,1,Social
+300,Male,52,6,Education
+40,Female,37,2,Health
+80,Male,33,4,Environment
+25,Female,24,1,Animal Protection
+200,Male,46,3,Economic Development
+75,Female,27,2,Culture
+150,Male,42,3,Health
+75,Female,31,5,Sport
+50,Male,19,2,Human Help
+80,Female,55,4,Health
+20,Male,27,1,Environment
+500,Male,48,6,Social
+60,Female,35,2,Education
+200,Male,44,3,Health
+40,Female,28,1,Economic Development
+120,Male,39,4,Animal Protection
+100,Male,56,3,Human Help
+30,Female,21,2,Social
+250,Male,49,5,Education
+25,Female,33,1,Health
+350,Male,41,3,Environment
+50,Female,29,2,Culture
+70,Male,36,4,Health
+30,Female,25,1,Sport
+400,Male,52,6,Human Help
+45,Female,37,2,Health
+80,Male,33,4,Environment
+20,Female,24,1,Social
+180,Male,47,3,Education
+100,Female,26,2,Health
+200,Female,42,3,Economic Development
+50,Male,22,1,Animal Protection
+100,Female,29,2,Human Help
+80,Male,35,3,Social
+30,Female,18,1,Education
+150,Male,41,4,Health
+70,Female,34,2,Education
+300,Male,51,5,Health
+40,Female,27,1,Environment
+400,Male,48,6,Economic Development
+60,Female,32,2,Social
+80,Male,36,4,Education
+20,Female,23,1,Animal Protection
+250,Male,46,3,Sport
+100,Female,24,2,Health
+50,Male,30,2,Social
+90,Female,37,4,Economic Development
+25,Male,19,1,Health
+350,Female,45,5,Social
+40,Male,28,2,Education
+75,Female,31,3,Animal Protection
+20,Male,20,1,Sport
+180,Female,43,3,Culture
+200,Male,38,4,Social
+500,Male,56,10,Economic Development
+75,Female,24,2,Education
+200,Male,39,5,Health
+50,Female,31,1,Environment
+100,Male,45,3,Animal Protection
+150,Female,37,4,Sport
+25,Male,19,1,Economic Development
+80,Female,29,2,Social
+300,Male,51,7,Education
+40,Female,27,1,Health
+250,Male,46,4,Social
+100,Female,35,3,Economic Development
+50,Male,22,1,Animal Protection
+90,Female,38,4,Sport
+75,Male,31,3,Environment
+20,Female,23,1,Social
+400,Male,48,9,Education
+60,Female,32,2,Economic Development
+70,Male,34,3,Social
+200,Female,42,4,Health
+25,Male,18,1,Education
+350,Female,45,6,Environment
+50,Male,30,2,Social
+180,Female,43,3,Health
+50,Female,28,3,Economic Development
+200,Male,35,2,Sport
+1000,Female,50,1,Animal Protection
+25,Male,22,4,Health
+500,Female,45,2,Human Help
+75,Male,40,3,Education
+100,Female,30,5,Environment
+300,Male,55,1,Social
+50,Male,29,3,Health
+150,Female,42,2,Economic Development
+500,Male,48,1,Sport
+100,Female,25,4,Animal Protection
+75,Male,33,3,Health
+30,Female,21,6,Human Help
+200,Male,40,2,Education
+50,Female,27,4,Environment
+1000,Male,60,1,Social
+20,Male,19,5,Health
+500,Female,48,2,Economic Development
+75,Male,37,3,Sport
+100,Female,32,5,Animal Protection
+200,Male,43,2,Health
+50,Female,30,3,Human Help
+150,Male,36,2,Education
+100,Male,35,5,Environment
+150,Female,26,3,Social
+50,Male,22,1,Health
+200,Female,40,4,Economic Development
+75,Male,30,2,Sport
+300,Female,50,7,Animal Protection
+25,Male,19,1,Health
+80,Female,28,2,Human Help
+250,Male,45,4,Education
+40,Female,24,1,Environment
+180,Male,39,3,Social
+100,Female,32,2,Health
+50,Male,20,1,Economic Development
+90,Female,38,4,Sport
+75,Male,31,3,Animal Protection
+20,Female,23,1,Health
+400,Male,48,9,Human Help
+60,Female,33,2,Education
+70,Male,34,3,Environment
+200,Female,41,4,Social
+25,Male,18,1,Health
+350,Female,45,6,Environment
+50,Male,30,2,Economic Development
+180,Female,43,3,Social
+100,Male,32,5,Sport
+50,Female,45,8,Health
+500,Male,50,2,Animal Protection
+20,Male,28,4,Urgence
+200,Female,60,1,Human Help
+75,Male,40,2,Culture
+1000,Female,55,1,Education
+30,Male,25,3,Environment
+150,Female,38,5,Economic Development
+500,Male,42,4,Social
+50,Female,29,6,Sport
+200,Male,47,4,Health
+75,Female,35,2,Animal Protection
+100,Male,28,7,Urgence
+25,Male,33,3,Human Help
+300,Female,50,2,Culture
+50,Male,22,3,Education
+75,Female,40,4,Environment
+1000,Male,60,1,Economic Development
+150,Female,27,5,Social
+500,Male,55,3,Sport
+30,Female,30,2,Health
+100,Male,32,5,Animal Protection
+50,Female,45,8,Urgence
+500,Male,50,2,Human Help
+20,Male,28,4,Culture
+200,Female,60,1,Education
+75,Male,40,2,Environment
+1000,Female,55,1,Economic Development
+30,Male,25,3,Social
+150,Female,38,5,Sport
+500,Male,42,4,Health
+50,Female,29,6,Animal Protection
+200,Male,27,4,Urgence
+75,Female,35,2,Human Help
+100,Male,25,7,Culture
+250,Female,52,3,Education
+80,Male,31,5,Environment
+300,Female,48,3,Economic Development
+1500,Male,65,1,Social
+40,Male,22,2,Sport
+100,Female,39,4,Health
+80,Male,34,6,Animal Protection
+500,Female,22,2,Urgence
+500,Male,56,10,Health
+75,Female,24,2,Economic Development
+200,Male,39,5,Animal Protection
+50,Female,23,1,Urgence
+100,Male,45,3,Environment
+150,Female,37,4,Social
+25,Male,19,1,Sport
+80,Female,29,2,Health
+300,Male,51,7,Human Help
+40,Female,27,1,Economic Development
+250,Male,46,4,Environment
+100,Female,35,3,Education
+50,Male,22,1,Animal Protection
+90,Female,20,4,Urgence
+75,Male,31,3,Environment
+20,Female,23,1,Social
+400,Male,48,9,Health
+60,Female,32,2,Human Help
+70,Male,34,3,Economic Development
+200,Female,42,4,Environment
+25,Male,18,1,Education
+350,Female,45,6,Animal Protection
+50,Male,25,2,Urgence
+180,Female,43,3,Environment
