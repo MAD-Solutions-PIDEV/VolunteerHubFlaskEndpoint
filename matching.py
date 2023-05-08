@@ -36,16 +36,7 @@ def get_recommended_missions(user_id):
 
 
 
-# mission_rec = ['mission' + str(i) for i in range(len(get_recommended_missions))]
-# df[mission_rec] = pd.DataFrame(get_recommended_missions)
 
-# def matching(row):
-#     last_missions = row[mission_rec].sort_values(ascending=False)
-#     return ', '.join(last_missions.index)
-
-# df['matching'] = df.apply(matching, axis=1)
-
-
-# for index, row in df.iterrows():
-#     record = row.to_dict()
-#     collection.update_one({'_id': record['_id']}, {'$set': record}, upsert=True)
+for index, row in df.iterrows():
+    record = row.to_dict()
+    collection.update_one({'_id': record['_id']}, {'$set': record}, upsert=True)
