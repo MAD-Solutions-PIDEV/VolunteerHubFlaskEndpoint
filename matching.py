@@ -28,15 +28,20 @@ def get_recommended_missions(user_id):
         matching_blocks = MatchOr.get_matching_blocks()
         total_length = sum([block.size for block in matching_blocks])
         percentage = (total_length * 100) / max(len(skill), len(user_skills))
-        mission_rec = ['mission' + str(i) for i in range(len(get_recommended_missions))]
-        df[mission_rec] = pd.DataFrame(get_recommended_missions)
-        last_missions = row[mission_rec].sort_values(ascending=False)
- 
-    return recommended_missions,percentage,', '.join(last_missions.index)
+    return recommended_missions,percentage
 
 
 
+# mission_rec = ['mission' + str(i) for i in range(len(get_recommended_missions))]
+# df[mission_rec] = pd.DataFrame(get_recommended_missions)
 
-for index, row in df.iterrows():
-    record = row.to_dict()
-    collection.update_one({'_id': record['_id']}, {'$set': record}, upsert=True)
+# def matching(row):
+#     last_missions = row[mission_rec].sort_values(ascending=False)
+#     return ', '.join(last_missions.index)
+
+# df['matching'] = df.apply(matching, axis=1)
+
+
+# for index, row in df.iterrows():
+#     record = row.to_dict()
+#     collection.update_one({'_id': record['_id']}, {'$set': record}, upsert=True)
