@@ -1,9 +1,10 @@
-import requests
+
 import torch as torch
 import pandas as pd
 from sklearn.linear_model import LinearRegression
 from sklearn.preprocessing import StandardScaler
 from flask import Flask
+from flask import jsonify
 from organizationClassification import organizations_classification
 from sentimentAnalysis import sentiment_analysis
 from donationPrediction import predict_donation
@@ -46,8 +47,8 @@ def launch_donation_prediction():
     # Model Creation and training
     model = LinearRegression()
     model.fit(X, y)
-    predict_donation(data)
-
+    amount = predict_donation(data)
+    return jsonify(int(amount))
 
 if __name__ == '__main__':
     app.run()
