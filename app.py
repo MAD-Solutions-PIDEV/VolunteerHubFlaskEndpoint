@@ -52,6 +52,13 @@ def launch_donation_prediction():
     model = LinearRegression()
     model.fit(X, y)
     predict_donation(data)
+    
+    
+    
+    
+    
+    
+    
 
 @app.route('/predict/match', methods=["POST"])
 def get_recommended_missions():
