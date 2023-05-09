@@ -1,15 +1,20 @@
+import os
+
 import numpy
 import spacy
 from pymongo import MongoClient
 import pandas as pd
+from dotenv import load_dotenv
 
 
 def organizations_classification():
+    load_dotenv()
+
     # load pre-trained embeddings from spaCy
     nlp = spacy.load('en_core_web_lg')
 
     # connect to MongoDB database
-    client = MongoClient('mongodb://localhost:27017/')
+    client = MongoClient(os.getenv("MONGO_URI"))
     db = client['VolunteerHub']
     collection = db['organizations']
 
