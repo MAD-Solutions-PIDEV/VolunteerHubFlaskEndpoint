@@ -2,16 +2,19 @@ import pymongo
 import nltk
 from nltk.sentiment import SentimentIntensityAnalyzer
 import ssl
+import os
+from dotenv import load_dotenv
 
 
 def sentiment_analysis():
+    load_dotenv()
     ssl._create_default_https_context = ssl._create_unverified_context
 
     # Download VADER lexicon
     nltk.download('vader_lexicon')
 
     # Connect to MongoDB
-    client = pymongo.MongoClient('mongodb://localhost:27017/')
+    client = pymongo.MongoClient(os.getenv("MONGO_URI"))
     db = client['VolunteerHub']
 
     # Create a sentiment analyzer object
