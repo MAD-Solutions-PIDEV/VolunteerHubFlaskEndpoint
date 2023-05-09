@@ -19,6 +19,7 @@ collection = db['missions']
 
 @app.route('/predict/classifyOrgs')
 def launch_orgs_classification():
+    print("Hello World")
     organizations_classification()
     return ''
 
