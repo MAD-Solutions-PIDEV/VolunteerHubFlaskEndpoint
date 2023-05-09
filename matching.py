@@ -2,8 +2,10 @@ from ast import MatchOr
 import pandas as pd
 from pymongo import MongoClient
 import difflib
+import os
+from dotenv import load_dotenv
 
-client = MongoClient('mongodb://localhost:27017/')
+client = MongoClient(os.getenv("MONGO_URI"))
 db = client['VolunteerHub']
 collection = db['missions']
 

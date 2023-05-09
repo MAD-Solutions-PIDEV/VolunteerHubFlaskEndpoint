@@ -11,9 +11,12 @@ from sentimentAnalysis import sentiment_analysis
 from donationPrediction import predict_donation
 from matching import get_recommended_missions
 from flask import request
-app = Flask(__name__)
+import os
+from dotenv import load_dotenv
 
-client = MongoClient('mongodb://localhost:27017/')
+app = Flask(__name__)
+load_dotenv()
+client = MongoClient(os.getenv("MONGO_URI"))
 db = client['VolunteerHub']
 collection = db['missions']
 
